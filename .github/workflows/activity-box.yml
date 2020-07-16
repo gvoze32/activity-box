@@ -15,4 +15,4 @@ jobs:
           GH_PAT: ${{ secrets.GH_PAT }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USERNAME: gvoze32
-          GIST_ID: 68c3458672047ec25e61a8af730181c3
+          GIST_ID: c0a42c470414fa11b88a3c5698f76aa1
